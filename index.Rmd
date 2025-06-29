@@ -10,6 +10,8 @@ links:
     url: "https://github.com/"
   - label: Email
     url: "mailto:email@email.com"
+  - label: Files
+    url: "https://m-apablaza.github.io/files/"
 output:
   postcards::jolla
 ---
